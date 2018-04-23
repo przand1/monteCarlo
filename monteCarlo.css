@@ -1,0 +1,33 @@
+.bigSquere {
+  height: 1000px;
+  width: 1000px;
+  background-color: #ccc;
+  position: absolute;
+}
+.circle {
+  height: 1000px;
+  width: 1000px;
+  background-color: #aaf;
+  border-radius: 50%;
+  position: absolute;
+}
+.dotIn {
+  height: 5px;
+  width: 5px;
+  background-color: #f00;
+  border-radius: 50%;
+  position: absolute;
+}
+.dotOut {
+  height: 5px;
+  width: 5px;
+  background-color: #0f0;
+  border-radius: 50%;
+  position: absolute;
+}
+.tab {
+  height: 100px;
+  width: 400px;
+  border:3px solid black;
+  padding:10px;
+}
